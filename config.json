@@ -1,0 +1,25 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/coderparmeet",
+    "prod_uri": "mysql://root:@localhost/coderparmeet",
+    "fb_url": "https://www.facebook.com/parmitsinh.vaghela",
+    "tw_url": "https://twitter.com/ParmeetsinhV",
+    "gh_url": "https://github.com/parmeetsinhvaghela",
+    "ig_url": "https://www.instagram.com/parmeetsinh_vaghela",
+    "blog_name": "Coder Parmeet",
+    "tag_line": "Heaven for programmers",
+    "gmail-user": "coderparmeet@gmail.com",
+    "gmail-password": "coderparmeet@123",
+    "about_text": "Hi my name is parmeet!!",
+    "no_of_posts": 3,
+    "login_image":"login.svg",
+     "admin_user":"parmeet",
+    "admin_password": "jaymataji",
+    "upload_location": "C:\\Users\\parme\\PycharmProjects\\F_Test\\static"
+  }
+
+
+}
+
