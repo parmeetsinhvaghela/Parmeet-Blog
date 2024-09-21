@@ -15,4 +15,5 @@ Welcome to my blog! This repository contains posts on technology, programming, c
 - HTML
 - CSS
 - JavaScript
+- Python
 
